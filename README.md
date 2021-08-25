@@ -30,3 +30,5 @@ Once the signal reaches the end of the screen, all the columns in which a pulse 
 The heart rate calculation is performed each time the signal has finished scrolling the screen. We simply calculate an average of all the intervals between beats and then find the number of beats per minute by direct proportion.
 
 ![signal drawing](./images/bpm-calculation.png)
+
+![project video](./images/project-video.mp4)
