@@ -1,3 +1,4 @@
+
 # ecg-analyzer
 The project consists of the development of a device capable of non-invasively detecting blood flow in order to graph the measured signal in real time and calculate the heart rate.
 
@@ -31,4 +32,4 @@ The heart rate calculation is performed each time the signal has finished scroll
 
 ![signal drawing](./images/bpm-calculation.png)
 
-![project video](./images/project-video.mp4)
+https://user-images.githubusercontent.com/62024284/130856245-f347c0ca-c484-41f0-9285-f52bd38905af.mp4
